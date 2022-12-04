@@ -1,3 +1,2 @@
 # HealthCare
-The Health Care Management System
-This Project works like online clinic system.
+This is the online health care system project.
